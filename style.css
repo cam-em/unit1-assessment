@@ -1,0 +1,35 @@
+.red {
+    color: red;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+main {
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 75%;
+    justify-content: center;
+    align-items: center
+}
+
+#plusBtn--container {
+    margin-right: 5px;
+
+}
+
+#num {
+    margin-right: 5px;
+
+}
